@@ -20,11 +20,5 @@ export const login = () => {
       <p class="text-xs text-gray-500 mt-3">Literally you probably haven't heard of them jean shorts.</p>
     </div>
   </div>
-</section>
-    <form class="login" id="loginId">
-        <header>Log In</header>
-        <input type="text" name="email" placeholder=" Email">
-        <input type="password" name="password" placeholder=" Password">
-        <button type="submit">Log In</button>
-    </form>`;
+</section> ;
 }
